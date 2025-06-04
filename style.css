@@ -72,7 +72,7 @@ main {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url('unnamed.webp') no-repeat center center;
+  background: url('') no-repeat center center;
   background-size: cover;
   text-align: center;
   color: #000000;
